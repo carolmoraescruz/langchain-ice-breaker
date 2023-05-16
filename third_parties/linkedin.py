@@ -20,11 +20,20 @@ def scrape_linkedin_profile(linkedin_profile_url: str):
     )
 
     data = response.json()
+    data = clean_linkedin_json(data)
+
+    return data
+
+
+def clean_linkedin_json(data: dict):
+    """
+    Cleans the response for the linkedin profile.
+    """
     data = {
         k: v
         for k, v in data.items()
         if v not in ([], "", "", None)
-        and k not in ["people_also_viewed", "certifications"]
+        and k not in ["people_also_viewed", "certifications", "activities"]
     }
     if data.get("groups"):
         for group_dict in data.get("groups"):

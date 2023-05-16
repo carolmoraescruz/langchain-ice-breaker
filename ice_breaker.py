@@ -1,8 +1,12 @@
+import json
+
 from langchain import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
-
 from dotenv import load_dotenv
+
+from third_parties.linkedin import *
+
 
 load_dotenv()
 
@@ -34,4 +38,8 @@ if __name__ == "__main__":
 
     chain = LLMChain(llm=llm, prompt=summary_prompt_template)
 
-    print(chain.run(information=information))
+    # linkedin_data = scrape_linkedin_profile(linkedin_profile_url="https://www.linkedin.com/in/caroline-moraes-da-cruz/")
+    with open("third_parties/linkedin-carol.json", "r") as file:
+        linkedin_data = clean_linkedin_json(json.load(file))
+
+    print(chain.run(information=linkedin_data))

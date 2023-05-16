@@ -1,0 +1,9 @@
+requests
+langchain
+black
+openai
+install
+google-search-results
+tweepy
+flask
+dotenv

@@ -1,0 +1,1369 @@
+{
+	"public_identifier": "caroline-moraes-da-cruz",
+	"profile_pic_url": "https://media.licdn.com/dms/image/D4D03AQFdFTzfRhZTJw/profile-displayphoto-shrink_800_800/0/1677687327300?e=2147483647&v=beta&t=C2cMPnDvVAYLM-31YPgugevnJoGBc3Aq5Zdy8643iy8",
+	"background_cover_image_url": "https://media.licdn.com/dms/image/C4E16AQGZtT7jvdYdcA/profile-displaybackgroundimage-shrink_200_800/0/1649685210991?e=2147483647&v=beta&t=_Mfd0nfMLX-f3D-Bcl7573r4VmDO7RwYYJFDaZFQIeg",
+	"first_name": "Caroline Moraes da",
+	"last_name": "Cruz",
+	"full_name": "Caroline Moraes da Cruz",
+	"follower_count": 1656,
+	"occupation": "Engenheira de dados j\\u00fanior at BlueShift Brasil",
+	"headline": "Engenheira de Dados | Azure | Lean Six Sigma Black Belt | Doutora em Engenharia e Ci\\u00eancia de Materiais",
+	"summary": "Engenheira de dados, graduada em Engenharia Qu\\u00edmica, doutoranda em Engenharia de Materiais e certificada como Green Belt (2019) e Black Belt (2020). Possuo mais de 12 anos de atua\\u00e7\\u00e3o na \\u00e1rea de Controle de Qualidade. Tenho perfil anal\\u00edtico, bastante organizada e com grande facilidade em trabalhar em equipe. Sou apaixonada por aprender novas habilidades e idiomas e estou em constante desenvolvimento. Tenho experi\\u00eancia em utilizar outros idiomas, majoritariamente o ingl\\u00eas, nas comunica\\u00e7\\u00f5es di\\u00e1rias de trabalho, elabora\\u00e7\\u00e3o de relat\\u00f3rios e tradu\\u00e7\\u00e3o de documentos t\\u00e9cnicos. Entusiasta do estudo de estat\\u00edstica, modelagem e programa\\u00e7\\u00e3o.\\n\\nGithub: github.com/carolmoraescruz\\n\\nFerramentas\\n\\u25cf A linguagem de programa\\u00e7\\u00e3o que utilizo majoritariamente \\u00e9 o Python 3\\n\\u25cf Tenho conhecimento em computa\\u00e7\\u00e3o na nuvem, principalmente Azure\\n\\u25cf Utilizo diariamente as ferramentas Azure Data Factory, Databricks, e Azure Functions\\n\\u25cf Conhe\\u00e7o e trabalho com a Power Platform, principalmente Microsoft PowerApps, Power Automate e Power BI na elabora\\u00e7\\u00e3o de dashboards\\n\\u25cf Conhecimento em SQL em banco de dados relacionais\\n\\u25cf Tive a oportunidade de trabalhar com R na execu\\u00e7\\u00e3o de testes estat\\u00edsticos e visualiza\\u00e7\\u00f5es na minha tese de doutorado\\n\\u25cf Conhecimentos avan\\u00e7ados em Office e acredito que um bom conhecimento em Excel \\u00e9 uma excelente skill para iniciar o processo de an\\u00e1lise de dados \\n\\u25cf Utilizo as bibliotecas Pandas e Numpy para manipula\\u00e7\\u00e3o de bases de dados em Python\\n\\u25cf Para visualiza\\u00e7\\u00f5es em Python, comumente recorro \\u00e0s bibliotecas Matplotlib e Seaborn\\n\\u25cf Tenho experi\\u00eancia em modelagem com Scikit-Learn\\n\\u25cf Para realiza\\u00e7\\u00e3o de testes estat\\u00edsticos, utilizo as bibliotecas Scipy e Statsmodels\\n\\u25cf Conhecimentos b\\u00e1sicos nos softwares Minitab e Matlab\\n\\u25cf Conhecimento em metodologias \\u00e1geis (Lean, Scrum e Kanban)\\n\\nRealiza\\u00e7\\u00f5es\\n\\u25cf 4 certifica\\u00e7\\u00f5es em ferramentas Microsoft\\n\\u25cf Forma\\u00e7\\u00e3o completa em Data Science (Alura)\\n\\u25cf Certifica\\u00e7\\u00e3o Especialista Green Belt (FM2S)\\n\\u25cf Certifica\\u00e7\\u00e3o Black Belt (FM2S)\\n\\u25cf MasterMind Lince: lideran\\u00e7a, relacionamento interpessoal e comunica\\u00e7\\u00e3o eficaz\\n\\u25cf Flu\\u00eancia em ingl\\u00eas\\n\\u25cf Conhecimento avan\\u00e7ado em espanhol\\n\\u25cf Conhecimento b\\u00e1sico em franc\\u00eas\\n\\nExpertise\\nEngenharia de Dados\\u30fbAzure\\u30fbPower Platform\\u30fbEstat\\u00edstica\\u30fbPython\\u30fbSQL\\u30fbR\\u30fbPandas\\u30fbNumpy\\u30fbMatplotlib\\u30fbScikit-Learn\\u30fbSeaborn\\u30fbScipy\\u30fbStatsmodels\\u30fbExcel\\u30fbWord\\u30fbPowerPoint\\u30fbComunica\\u00e7\\u00e3o\\u30fbIngl\\u00eas",
+	"country": "BR",
+	"country_full_name": "Brazil",
+	"city": "Po\\u00e7os de Caldas",
+	"state": "Minas Gerais",
+	"experiences": [{
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2022
+		},
+		"ends_at": null,
+		"company": "BlueShift Brasil",
+		"company_linkedin_profile_url": "https://br.linkedin.com/company/blueshift-brasil",
+		"title": "Engenheira de dados j\\u00fanior",
+		"description": null,
+		"location": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQHahtlh1PLpTA/company-logo_100_100/0/1563404245619?e=2147483647&v=beta&t=9smXQbrTldaOq0lMZ7InfSl0DSdCBgwACdQzNlgqUHw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 30,
+			"month": 6,
+			"year": 2022
+		},
+		"company": "BlueShift Brasil",
+		"company_linkedin_profile_url": "https://br.linkedin.com/company/blueshift-brasil",
+		"title": "Engenheira de dados",
+		"description": null,
+		"location": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQHahtlh1PLpTA/company-logo_100_100/0/1563404245619?e=2147483647&v=beta&t=9smXQbrTldaOq0lMZ7InfSl0DSdCBgwACdQzNlgqUHw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 11,
+			"year": 2019
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 3,
+			"year": 2022
+		},
+		"company": "TOGNI S/A Materiais Refrat\\u00e1rios",
+		"company_linkedin_profile_url": "https://br.linkedin.com/company/togni-s-a-materiais-refratarios",
+		"title": "Supervisor de produ\\u00e7\\u00e3o",
+		"description": "A TOGNI faz parte de um grupo de empresas que atuam nas \\u00e1reas de refrat\\u00e1rios, mec\\u00e2nica especializada, minera\\u00e7\\u00e3o, florestamento e rochas ornamentais. A empresa possui uma parceria com a empresa Allied Mineral Products, a qual consiste na produ\\u00e7\\u00e3o e controle de qualidade dos seus produtos no Brasil. Desta forma, \\u00e9 necess\\u00e1rio que os procedimentos sejam padronizados de forma a garantir a uniformidade dos produtos fornecidos no Brasil com aqueles fabricados nas outras f\\u00e1bricas da Allied Minerals ao redor do mundo.\\n\\nPRINCIPAIS RESPONSABILIDADES:\\n\\u25cf Desenvolvimento de novas mat\\u00e9rias-primas e fornecedores\\n\\u25cf Planejamento e acompanhamento de produ\\u00e7\\u00e3o\\n\\u25cf Controle de qualidade de mat\\u00e9rias-primas e produtos\\n\\u25cf Auditoria peri\\u00f3dica do processo de produ\\u00e7\\u00e3o\\n\\u25cf Comunica\\u00e7\\u00e3o di\\u00e1ria em ingl\\u00eas com o setor de Garantia da Qualidade da sede da Allied Minerals, em Columbus OH\\n\\u25cf Elabora\\u00e7\\u00e3o de relat\\u00f3rios de desempenho e controle de estoque de mat\\u00e9rias primas\\n\\u25cf Tratamento de mat\\u00e9rias primas e produtos n\\u00e3o conformes\\n\\nREALIZA\\u00c7\\u00d5ES:\\n\\u25cf Desenvolvimento de sistema interno para registro de informa\\u00e7\\u00f5es e planejamento de produ\\u00e7\\u00e3o conforme procedimento da Allied Minerals\\n\\u25cf Organiza\\u00e7\\u00e3o do ambiente produtivo de forma a otimizar o espa\\u00e7o e fluxo de trabalho\\n\\u25cf Treinamento de funcion\\u00e1rios visando o atendimento de procedimentos internos e normativos\\n            \\n\\n    \\n    \\n\\n    \\n        Exibir menos",
+		"location": "Po\\u00e7os de Caldas, Minas Gerais",
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQFnBp8jD0bD2Q/company-logo_100_100/0/1614957747699?e=2147483647&v=beta&t=qbo5EdrH4T_7smWN9wcv07KPKxYdECm0F3XlwZAHyiw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2016
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 3,
+			"year": 2022
+		},
+		"company": "TOGNI S/A Materiais Refrat\\u00e1rios",
+		"company_linkedin_profile_url": "https://br.linkedin.com/company/togni-s-a-materiais-refratarios",
+		"title": "Pesquisadora",
+		"description": "A TOGNI faz parte de um grupo de empresas que atuam nas \\u00e1reas de refrat\\u00e1rios, mec\\u00e2nica especializada, minera\\u00e7\\u00e3o, florestamento e rochas ornamentais. A empresa possui uma linha de refrat\\u00e1rios amplamente diversificada, podendo atender a v\\u00e1rios segmentos, como siderurgia, cimento e cal, alum\\u00ednio, cer\\u00e2mica, papel e celulose, fundi\\u00e7\\u00f5es, vidro, qu\\u00edmica e petroqu\\u00edmica, caldeiras, incineradores, entre outros. O Departamento de Pesquisa e Controle de Qualidade, do qual fa\\u00e7o parte, trabalha diretamente no desenvolvimento de mat\\u00e9rias primas e fornecedores, bem como no desenvolvimento e aprimoramento de produtos adequados \\u00e0s necessidades operacionais de cada cliente, em conjunto com o Departamento de Produtos e Assist\\u00eancia T\\u00e9cnica.\\n\\nPRINCIPAIS RESPONSABILIDADES:\\n\\u25cf Desenvolvimento de novas mat\\u00e9rias-primas e produtos\\n\\u25cf Aprimoramento de produtos de linha\\n\\u25cf Realiza\\u00e7\\u00e3o de avalia\\u00e7\\u00f5es t\\u00e9cnicas para clientes\\n\\u25cf Planejamento e controle de qualidade de mat\\u00e9rias-primas e produtos\\n\\u25cf Manuten\\u00e7\\u00e3o do Sistema de Gest\\u00e3o de Qualidade de acordo com a norma ISO 9001:2015.\\n\\nREALIZA\\u00c7\\u00d5ES:\\n\\u25cf Desenvolvimento de uma linha de concretos refrat\\u00e1rios sem cimento, com alta resist\\u00eancia mec\\u00e2nica a quente e alta produtividade de pe\\u00e7as especiais \\n\\u25cf Ajustes dos procedimentos e organiza\\u00e7\\u00e3o do sistema de Pesquisa e Desenvolvimento para trabalhar de forma enxuta\\n\\u25cf Desenvolvimento de um sistema interno para registro de informa\\u00e7\\u00f5es e c\\u00e1lculos de experimentos de forma automatizada\\n\\u25cf Elabora\\u00e7\\u00e3o de relat\\u00f3rios para a Lei do Bem, submetidos anualmente ao governo federal para demonstra\\u00e7\\u00e3o dos desenvolvimentos realizados pela empresa\\n\\u25cf Treinamento de funcion\\u00e1rios visando o atendimento de procedimentos internos e normativos\\n            \\n\\n    \\n    \\n\\n    \\n        Exibir menos",
+		"location": "Po\\u00e7os de Caldas",
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQFnBp8jD0bD2Q/company-logo_100_100/0/1614957747699?e=2147483647&v=beta&t=qbo5EdrH4T_7smWN9wcv07KPKxYdECm0F3XlwZAHyiw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2009
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 7,
+			"year": 2015
+		},
+		"company": "TOGNI S/A Materiais Refrat\\u00e1rios",
+		"company_linkedin_profile_url": "https://br.linkedin.com/company/togni-s-a-materiais-refratarios",
+		"title": "Assistente de Pesquisa e Controle de Qualidade",
+		"description": "A TOGNI faz parte de um grupo de empresas que atuam nas \\u00e1reas de refrat\\u00e1rios, mec\\u00e2nica especializada, minera\\u00e7\\u00e3o, florestamento e rochas ornamentais. A empresa possui uma linha de refrat\\u00e1rios amplamente diversificada, podendo atender a v\\u00e1rios segmentos, como siderurgia, cimento e cal, alum\\u00ednio, cer\\u00e2mica, papel e celulose, fundi\\u00e7\\u00f5es, vidro, qu\\u00edmica e petroqu\\u00edmica, caldeiras, incineradores, entre outros. O Departamento de Pesquisa e Controle de Qualidade, do qual fa\\u00e7o parte, trabalha diretamente no desenvolvimento de mat\\u00e9rias primas e fornecedores, bem como no desenvolvimento e aprimoramento de produtos adequados \\u00e0s necessidades operacionais de cada cliente, em conjunto com o Departamento de Produtos e Assist\\u00eancia T\\u00e9cnica.\\n\\nPRINCIPAIS RESPONSABILIDADES:\\n\\u25cf Desenvolvimento de novas mat\\u00e9rias-primas e fornecedores\\n\\u25cf Planejamento e acompanhamento de produ\\u00e7\\u00e3o\\n\\u25cf Controle de qualidade de mat\\u00e9rias-primas e produtos\\n\\nREALIZA\\u00c7\\u00d5ES:\\n\\u25cf Aprimoramento do sistema interno para registro de formula\\u00e7\\u00f5es e especifica\\u00e7\\u00f5es t\\u00e9cnicas de mat\\u00e9rias primas e produtos acabados\\n\\u25cf Treinamento de funcion\\u00e1rios visando o atendimento de procedimentos internos e normativos\\n            \\n\\n    \\n    \\n\\n    \\n        Exibir menos",
+		"location": "Po\\u00e7os de Caldas",
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQFnBp8jD0bD2Q/company-logo_100_100/0/1614957747699?e=2147483647&v=beta&t=qbo5EdrH4T_7smWN9wcv07KPKxYdECm0F3XlwZAHyiw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2015
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2019
+		},
+		"company": "CCAA",
+		"company_linkedin_profile_url": "https://br.linkedin.com/company/ccaa",
+		"title": "Professora de Ingl\\u00eas",
+		"description": "Ensino de ingl\\u00eas como segunda l\\u00edngua em todos os n\\u00edveis de aprendizado.",
+		"location": "Po\\u00e7os de Caldas",
+		"logo_url": "https://media.licdn.com/dms/image/D4D0BAQEdDYBOIRc76w/company-logo_100_100/0/1667299619104?e=2147483647&v=beta&t=dHNADsiMmz0XOLCSKUfMtS1dyexx5J3r_lH1UvDtFvA"
+	}],
+	"education": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2018
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2023
+		},
+		"field_of_study": "Engenharia de Materiais",
+		"degree_name": "Doutorado",
+		"school": "Universidade de S\\u00e3o Paulo",
+		"school_linkedin_profile_url": "https://br.linkedin.com/school/uspoficial/",
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQHHXnr1_zj8JA/company-logo_100_100/0/1660072406824?e=2147483647&v=beta&t=wQDxUzGc68VoPr7-NHGablsEsGiIO8w88IUswmG4-LM",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2022
+		},
+		"field_of_study": "Programa\\u00e7\\u00e3o Web Full Stack (Java e Angular) e Python para Dados",
+		"degree_name": null,
+		"school": "Digital House Brasil",
+		"school_linkedin_profile_url": "https://br.linkedin.com/school/digital-house-brasil/",
+		"description": "Programa Transforme-se da Serasa Experian em parceria com a Digital House de forma\\u00e7\\u00e3o em tecnologia e dados, exclusivo para mulheres.",
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQHesR6A4JGPIg/company-logo_100_100/0/1647270769071?e=2147483647&v=beta&t=2ilwJ-HDjmDh3NoAJtckS4gT3iwEoYpv4kbHQdHrGH4",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2015
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2017
+		},
+		"field_of_study": "Engenharia de Materiais",
+		"degree_name": "Mestrado",
+		"school": "Universidade Federal de Alfenas",
+		"school_linkedin_profile_url": "https://br.linkedin.com/school/unifalmg/",
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQH6dPfNISKSMA/company-logo_100_100/0/1533560166049?e=2147483647&v=beta&t=O_1zzrb6rX7lKLqHspBQe1onQTRHzCD1X9rSMsNcs2A",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2015
+		},
+		"field_of_study": "Engenharia Qu\\u00edmica",
+		"degree_name": "Bacharelado",
+		"school": "Universidade Federal de Alfenas",
+		"school_linkedin_profile_url": "https://br.linkedin.com/school/unifalmg/",
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQH6dPfNISKSMA/company-logo_100_100/0/1533560166049?e=2147483647&v=beta&t=O_1zzrb6rX7lKLqHspBQe1onQTRHzCD1X9rSMsNcs2A",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2011
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2014
+		},
+		"field_of_study": "Ci\\u00eancia e Tecnologia",
+		"degree_name": "Bacharelado",
+		"school": "Universidade Federal de Alfenas",
+		"school_linkedin_profile_url": "https://br.linkedin.com/school/unifalmg/",
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4D0BAQH6dPfNISKSMA/company-logo_100_100/0/1533560166049?e=2147483647&v=beta&t=O_1zzrb6rX7lKLqHspBQe1onQTRHzCD1X9rSMsNcs2A",
+		"grade": null,
+		"activities_and_societies": null
+	}],
+	"languages": ["English", "Spanish", "French"],
+	"accomplishment_organisations": [],
+	"accomplishment_publications": [{
+		"name": "Addition of sodium alginate capsules containing Lysinibacillus sphaericus for self-healing of cracks in mortars",
+		"publisher": "Research, Society and Development",
+		"published_on": {
+			"day": 14,
+			"month": 2,
+			"year": 2023
+		},
+		"description": null,
+		"url": "https://rsdjournal.org/index.php/rsd/article/view/40331/33035"
+	}, {
+		"name": "Uso de nefelina como fonte alternativa de \\u00e1lcalis em porcelanatos: Caracteriza\\u00e7\\u00e3o reol\\u00f3gica e f\\u00edsica",
+		"publisher": "Cer\\u00e2mica 64 (2018) 230-235",
+		"published_on": {
+			"day": 1,
+			"month": 6,
+			"year": 2018
+		},
+		"description": null,
+		"url": "http://www.scielo.br/pdf/ce/v64n370/1678-4553-ce-64-370-230.pdf"
+	}, {
+		"name": "Efeito das Equa\\u00e7\\u00f5es de Empacotamento nas Propriedades do Concreto Civil",
+		"publisher": "Anais do 61\\u00b0 Congresso Brasileiro de Cer\\u00e2mica",
+		"published_on": {
+			"day": 1,
+			"month": 7,
+			"year": 2017
+		},
+		"description": null,
+		"url": "http://metallum.com.br/61cbc/"
+	}, {
+		"name": "Porcelanatos Utilizando Nefelina Como Fonte Alternativa de \\u00c1lcalis",
+		"publisher": "Anais do 22\\u00ba Congresso Brasileiro de Engenharia e Ci\\u00eancia dos Materiais",
+		"published_on": {
+			"day": 1,
+			"month": 2,
+			"year": 2017
+		},
+		"description": null,
+		"url": "http://www.metallum.com.br/22cbecimat/anais/home.html"
+	}, {
+		"name": "An\\u00e1lise da Viabilidade Econ\\u00f4mica da Utiliza\\u00e7\\u00e3o de Nefelina como Fonte Alternativa de \\u00c1lcalis em Porcelanatos",
+		"publisher": "60\\u00b0 Congresso Brasileiro de Cer\\u00e2mica",
+		"published_on": null,
+		"description": null,
+		"url": null
+	}, {
+		"name": "Caracteriza\\u00e7\\u00e3o Reol\\u00f3gica de Porcelanatos Utilizando Nefelina Como Fonte Alternativa de \\u00c1lcalis.",
+		"publisher": "60\\u00b0 Congresso Brasileiro de Cer\\u00e2mica",
+		"published_on": null,
+		"description": null,
+		"url": null
+	}],
+	"accomplishment_honors_awards": [{
+		"title": "Pr\\u00eamio MasterMind",
+		"issuer": "MasterMind Lince",
+		"issued_on": {
+			"day": 1,
+			"month": 12,
+			"year": 2017
+		},
+		"description": "Comunica\\u00e7\\u00e3o estruturada e pensamento MasterMind"
+	}, {
+		"title": "Pr\\u00eamio Vendedor de Id\\u00e9ias",
+		"issuer": "MasterMind Lince",
+		"issued_on": {
+			"day": 1,
+			"month": 10,
+			"year": 2017
+		},
+		"description": "Comunica\\u00e7\\u00e3o eficaz e venda de id\\u00e9ias"
+	}],
+	"accomplishment_patents": [],
+	"accomplishment_courses": [{
+		"name": "Auditor interno ISO 9001:2015",
+		"number": "-"
+	}, {
+		"name": "MasterMind Lince - Lideran\\u00e7a, Intelig\\u00eancia Interpessoal e Comunica\\u00e7\\u00e3o Eficaz",
+		"number": "-"
+	}],
+	"accomplishment_projects": [],
+	"accomplishment_test_scores": [],
+	"volunteer_work": [{
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2022
+		},
+		"ends_at": null,
+		"title": "Funcion\\u00e1rio volunt\\u00e1rio",
+		"cause": "Ci\\u00eancia e tecnologia",
+		"company": "Mulheres em Dados",
+		"company_linkedin_profile_url": "https://br.linkedin.com/company/mulheresemdados",
+		"description": "Grupo de mulheres que tem interesse e/ou trabalha na \\u00e1rea de tecnologia e dados.\\n\\nO grupo objetiva promover trocas, mentoria, ajuda e suporte \\u00e0 todas as mulheres maravilhosas na \\u00e1rea para que, juntas, possamos mudar a desigualdade de g\\u00eanero em dados e tecnologia.\\n\\nContato: https://lnkd.in/dUEymWsU",
+		"logo_url": "https://media.licdn.com/dms/image/D4E0BAQHmdb-mMN68ag/company-logo_100_100/0/1682976465453?e=2147483647&v=beta&t=E_tieldwqClnVjPdElt_PSbaaUlDJqmhqa5i_Fak08w"
+	}],
+	"certifications": [{
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Forma\\u00e7\\u00e3o Modelagem de dados",
+		"license_number": "credencial 795a4deb-d0bc-43ec-9048-995c30175379",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/degree/certificate/795a4deb-d0bc-43ec-9048-995c30175379"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Modelagem de banco de dados relacional: entendendo SQL",
+		"license_number": "credencial 46f346cf-65d9-4f95-9a21-ca748081bd01",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/46f346cf-65d9-4f95-9a21-ca748081bd01"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Modelagem de banco de dados relacional: modelagem l\\u00f3gica e f\\u00edsica",
+		"license_number": "credencial c2e2ee63-9bfd-4c6b-9add-853a8d7f12d9",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/c2e2ee63-9bfd-4c6b-9add-853a8d7f12d9"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Modelagem de banco de dados relacional: normaliza\\u00e7\\u00e3o",
+		"license_number": "credencial c18b7fd4-de97-4d8e-a6a6-6cfe251c9abd",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/c18b7fd4-de97-4d8e-a6a6-6cfe251c9abd"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Modelagem de banco de dados: entidades, relacionamentos e atributos",
+		"license_number": "credencial fd4392c6-8f0a-46af-91f0-83a157dcc96d",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/fd4392c6-8f0a-46af-91f0-83a157dcc96d"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Flask: Avan\\u00e7ando no Desenvolvimento Web com Python",
+		"license_number": "credencial 81f1f804-e020-46f8-91f8-1b451616ed5e",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/81f1f804-e020-46f8-91f8-1b451616ed5e"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Flask: Crie uma Webapp com Python",
+		"license_number": "credencial 3ff1fa5f-5fb6-4c5a-bbcf-da44d44cee01",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/3ff1fa5f-5fb6-4c5a-bbcf-da44d44cee01"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Forma\\u00e7\\u00e3o Come\\u00e7ando com Flask: Framework Web de Python",
+		"license_number": "credencial fc272274-0e00-4c95-b28b-7412f5507b99",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/degree/certificate/fc272274-0e00-4c95-b28b-7412f5507b99"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Forma\\u00e7\\u00e3o Come\\u00e7ando com Linux",
+		"license_number": "credencial 92a3c7cd-e462-4520-bf82-7ab090e2866f",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/degree/certificate/92a3c7cd-e462-4520-bf82-7ab090e2866f"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Linux Onboarding: Usando a CLI de uma Forma R\\u00e1pida e Pr\\u00e1tica",
+		"license_number": "credencial 66ec246-0735-4b19-aad8-6b86fdc3f3ab",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/c66ec246-0735-4b19-aad8-6b86fdc3f3ab"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Linux Onboarding: localizando arquivos e conte\\u00fados",
+		"license_number": "credencial 3f1eda5b-6b77-41f2-87e7-59512f77994b",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/3f1eda5b-6b77-41f2-87e7-59512f77994b"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Linux Onboarding: obtendo e tratando informa\\u00e7\\u00f5es do sistema",
+		"license_number": "credencial 2f91590b-5903-4967-9b61-3328bbaa6970",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/2f91590b-5903-4967-9b61-3328bbaa6970"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Linux Onboarding: trabalhe com usu\\u00e1rios, permiss\\u00f5es e dispositivos",
+		"license_number": "credencial 167b60d9-4622-43f0-83af-a2988d5e2304",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/167b60d9-4622-43f0-83af-a2988d5e2304"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "SQL Server: SQL com Microsoft SQL Server 2019",
+		"license_number": "credencial 5744a394-0860-401f-a84e-f290f919864e",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/5744a394-0860-401f-a84e-f290f919864e"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "Power Automate - Complete Guide to Microsoft Power Automate",
+		"license_number": "credencial UC-906b14e5-7ccf-4e60-8208-46eed579fdf2",
+		"display_source": "www.udemy.com",
+		"authority": "Udemy",
+		"url": "https://www.udemy.com/certificate/UC-906b14e5-7ccf-4e60-8208-46eed579fdf2/"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "AWS Discovery Day - Cloud Practitioner Essentials",
+		"license_number": "credencial 89216-07794",
+		"display_source": null,
+		"authority": "Ka Solution",
+		"url": "www.kasolution.com.br/certificado"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Java Completo, Programa\\u00e7\\u00e3o Orientada a Objetos + Projetos",
+		"license_number": "credencial UC-fa26f535-622f-4c7c-a1b8-611238df86ef",
+		"display_source": null,
+		"authority": "Udemy",
+		"url": "ude.my/UC-fa26f535-622f-4c7c-a1b8-611238df86ef"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Power Apps - Complete Guide to Microsoft PowerApps",
+		"license_number": "credencial UC-b5458d20-bd70-4cad-8bda-5a517df65ca2/",
+		"display_source": "www.udemy.com",
+		"authority": "Udemy",
+		"url": "https://www.udemy.com/certificate/UC-b5458d20-bd70-4cad-8bda-5a517df65ca2/"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "SQL Server: Consultas Avan\\u00e7adas com Microsoft SQL Server 2017",
+		"license_number": "credencial fd04bd20-103f-4b30-abfc-1c9495b9b5f6",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/fd04bd20-103f-4b30-abfc-1c9495b9b5f6"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "SQL Server: Introdu\\u00e7\\u00e3o ao SQL com Microsoft SQL Server 2017",
+		"license_number": "credencial 99d8caba-178f-4ee5-b2de-40405f9cb30a",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/99d8caba-178f-4ee5-b2de-40405f9cb30a"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "SQL Server: SQL com Microsoft SQL Server 2019",
+		"license_number": "credencial 5744a394-0860-401f-a84e-f290f919864e",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/5744a394-0860-401f-a84e-f290f919864e"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Estat\\u00edstica com Python Parte 3: Testes de Hip\\u00f3teses",
+		"license_number": "credencial 5546b85c-d06b-40b0-a402-cc2d477554c1",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/5546b85c-d06b-40b0-a402-cc2d477554c1"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Estat\\u00edstica com Python Parte 4: Correla\\u00e7\\u00e3o e Regress\\u00e3o",
+		"license_number": "credencial 1b478750-8e3e-45a6-a9c7-a7be58e52071",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/1b478750-8e3e-45a6-a9c7-a7be58e52071"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Forma\\u00e7\\u00e3o Estat\\u00edstica com Python",
+		"license_number": "credencial fc2b30d0-6998-4607-8160-743b78a487a5",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/degree/certificate/fc2b30d0-6998-4607-8160-743b78a487a5"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Forma\\u00e7\\u00e3o Estat\\u00edstica com Python",
+		"license_number": "credencial fc2b30d0-6998-4607-8160-743b78a487a5",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/degree/certificate/fc2b30d0-6998-4607-8160-743b78a487a5"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Machine Learning: Introdu\\u00e7\\u00e3o \\u00e0 Classifica\\u00e7\\u00e3o com SKLearn",
+		"license_number": "credencial b7cb175f-934f-42b5-9cb6-e2ec8a45e1f9",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/b7cb175f-934f-42b5-9cb6-e2ec8a45e1f9"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Microsoft AZ-900 parte 1: Azure Fundamentals",
+		"license_number": "credencial cc274864-38bd-4e8a-b619-09e7979134d8",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/cc274864-38bd-4e8a-b619-09e7979134d8"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Microsoft AZ-900 parte 2: Azure Fundamentals",
+		"license_number": "credencial ba3da0a1-2e09-4b81-b698-b0141cf34691",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/ba3da0a1-2e09-4b81-b698-b0141cf34691"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "PostgreSQL: Views, Sub-consultas e Fun\\u00e7\\u00f5es",
+		"license_number": "credencial 5eaae2e9-13fd-4ce4-a111-8ac223a4154a",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/5eaae2e9-13fd-4ce4-a111-8ac223a4154a"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Dashboard com Tableau: Conceitos Essenciais",
+		"license_number": "credencial 91f25c50-7942-4793-b801-2667f0dd5417",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/91f25c50-7942-4793-b801-2667f0dd5417"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Data Science: An\\u00e1lises para Sa\\u00fade e Medicina",
+		"license_number": "credencial 238960d5-2d47-4e47-ba9c-34e0b56b0e91",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/238960d5-2d47-4e47-ba9c-34e0b56b0e91"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Data Science: Introdu\\u00e7\\u00e3o a Testes Estat\\u00edsticos Usando Python",
+		"license_number": "credencial f610a92a-469c-42c2-87d5-fa480d84042f",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/f610a92a-469c-42c2-87d5-fa480d84042f"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Data Science: Visualiza\\u00e7\\u00e3o de dados para sa\\u00fade e medicina",
+		"license_number": "credencial c28e45fc-aa30-4a10-a171-c915c2e03245",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/c28e45fc-aa30-4a10-a171-c915c2e03245"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Data Visualization Parte 1: Introdu\\u00e7\\u00e3o ao Design de Gr\\u00e1ficos",
+		"license_number": "credencial b1d1238d-d545-4a66-9f85-01a7c3787445",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/b1d1238d-d545-4a66-9f85-01a7c3787445"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Data Visualization Parte 2: Escolhendo o Melhor Gr\\u00e1fico",
+		"license_number": "credencial a09ad480-1731-446d-a82a-8a79e317aa04",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/a09ad480-1731-446d-a82a-8a79e317aa04"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Data Visualization: Cria\\u00e7\\u00e3o de Gr\\u00e1ficos com Matplotlib",
+		"license_number": "credencial 66319116-f2c5-4b1e-8be0-1bd526dd6b5a",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/66319116-f2c5-4b1e-8be0-1bd526dd6b5a"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Forma\\u00e7\\u00e3o Data Science",
+		"license_number": "credencial 2772993d-7695-4f48-9187-92c8c3103fe0",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/degree/certificate/2772993d-7695-4f48-9187-92c8c3103fe0"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Introdu\\u00e7\\u00e3o \\u00e0 Experimenta\\u00e7\\u00e3o: An\\u00e1lise de Experimentos",
+		"license_number": "credencial 65436b25-96d8-4afb-a442-8196ecb9f7df",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/65436b25-96d8-4afb-a442-8196ecb9f7df"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "POSTGRESQL: Primeiros passos com SQL",
+		"license_number": "credencial f550e700-b32f-42f5-a702-61cbfaadbf13",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/f550e700-b32f-42f5-a702-61cbfaadbf13"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Regress\\u00e3o Linear: Testando Rela\\u00e7\\u00f5es e Prevendo Resultados",
+		"license_number": "credencial e862d503-3c2a-4ac3-8bdd-3344a2dffa09",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/e862d503-3c2a-4ac3-8bdd-3344a2dffa09"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": null,
+		"name": "Regress\\u00e3o Linear: T\\u00e9cnicas Avan\\u00e7adas de Modelagem",
+		"license_number": "credencial c9fc18cb-9063-438a-a2e7-95003e369322",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/c9fc18cb-9063-438a-a2e7-95003e369322"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Data Science: Primeiros Passos",
+		"license_number": "credencial 7740dde9-79df-4032-99cd-5f11bf2c7af7",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/7740dde9-79df-4032-99cd-5f11bf2c7af7"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Estat\\u00edstica com Python Parte 1: Frequ\\u00eancia e Medidas",
+		"license_number": "credencial abdc7c2b-417a-4108-bf82-396cb4a9afc5",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/abdc7c2b-417a-4108-bf82-396cb4a9afc5"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Estat\\u00edstica com Python Parte 2: Probabilidade e Amostragem",
+		"license_number": "credencial bd690675-c691-4068-ae2a-6397ff23cde3",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/bd690675-c691-4068-ae2a-6397ff23cde3"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Python 3 Parte 1: Introdu\\u00e7\\u00e3o \\u00e0 Nova Vers\\u00e3o da Linguagen",
+		"license_number": "credencial 94f8b99e-8019-4fdc-a45a-c51cc847cf55",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/94f8b99e-8019-4fdc-a45a-c51cc847cf55"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Python Pandas: Tratando e Analisando Dados",
+		"license_number": "credencial 7aa8ba62-b42c-4caa-ba86-7c63286e5e84",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/7aa8ba62-b42c-4caa-ba86-7c63286e5e84"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Efic\\u00e1cia parte 1: H\\u00e1bitos para sua proatividade",
+		"license_number": "credencial e805c8af-ea48-409f-9061-b3d5d4cf7eb5",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/e805c8af-ea48-409f-9061-b3d5d4cf7eb5"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Efic\\u00e1cia parte 2: H\\u00e1bitos para sua proatividade",
+		"license_number": "credencial 4d14a1b6-d642-4361-9d2b-2482830f2810",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/4d14a1b6-d642-4361-9d2b-2482830f2810"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Foco: Trazendo mais resultados para o dia a dia",
+		"license_number": "credencial ab111299-30c1-40a2-a54d-aed51789bfaa",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/ab111299-30c1-40a2-a54d-aed51789bfaa"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "H\\u00e1bitos: da produtividade \\u00e0s metas pessoais",
+		"license_number": "credencial f8ff369e-5dc5-422d-b370-a29bed8c8fa9",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/f8ff369e-5dc5-422d-b370-a29bed8c8fa9"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Pontos fortes parte 1: descubra os seus e aprenda a gerenci\\u00e1-los",
+		"license_number": "credencial aaa0bf09-8fd5-47e4-b8df-fc68debccf6b",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/aaa0bf09-8fd5-47e4-b8df-fc68debccf6b"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Pontos fortes parte 2: Habilidades e compet\\u00eancias",
+		"license_number": "credencial 50d9e951-8d97-4d18-a660-4c2dcb7cf55d",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/50d9e951-8d97-4d18-a660-4c2dcb7cf55d"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Relacionamento interpessoal: aprenda a lidar melhor com voc\\u00ea e com o outro",
+		"license_number": "credencial e9065492-5bc1-4b27-b735-ad846339ed82",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/e9065492-5bc1-4b27-b735-ad846339ed82"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Certifica\\u00e7\\u00e3o PMP e CAPM Parte 1: Processos de Gerenciamento de Projetos",
+		"license_number": "credencial abfb2196-1a4d-4b40-a1ad-1f8dda954547",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/abfb2196-1a4d-4b40-a1ad-1f8dda954547"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Certifica\\u00e7\\u00e3o PMP e CAPM parte 2: Gerenciamento de Integra\\u00e7\\u00e3o",
+		"license_number": "credencial b7f11e0c-f8bd-4aaa-8e2d-313e771b236d",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/b7f11e0c-f8bd-4aaa-8e2d-313e771b236d"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Certifica\\u00e7\\u00e3o PMP e CAPM parte 3: Gerenciamento de Escopo",
+		"license_number": "credencial 3400de5f-f5d6-481c-8c73-9ea14a8b422c",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/3400de5f-f5d6-481c-8c73-9ea14a8b422c"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Especialista Lean Six Sigma Green Belt",
+		"license_number": "credencial 038072",
+		"display_source": "ead.fm2s.com.br",
+		"authority": "FM2S Educa\\u00e7\\u00e3o e Consultoria",
+		"url": "https://ead.fm2s.com.br/certificado/038072"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Fundamentos de Agilidade: seus primeiros passos para a transforma\\u00e7\\u00e3o \\u00e1gil",
+		"license_number": "credencial f453dd75-8c2a-44b9-bcca-826d2bfd2b5c",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/f453dd75-8c2a-44b9-bcca-826d2bfd2b5c"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Lean Six Sigma Black Belt",
+		"license_number": "credencial 037912",
+		"display_source": "ead.fm2s.com.br",
+		"authority": "FM2S Educa\\u00e7\\u00e3o e Consultoria",
+		"url": "https://ead.fm2s.com.br/certificado/037912"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Scrum: Agilidade em seu projeto",
+		"license_number": "credencial 08be988b-c2bc-4293-aee0-21a2f6177fe3",
+		"display_source": "cursos.alura.com.br",
+		"authority": "Alura",
+		"url": "https://cursos.alura.com.br/certificate/08be988b-c2bc-4293-aee0-21a2f6177fe3"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2020
+		},
+		"ends_at": null,
+		"name": "Power BI",
+		"license_number": "credencial 031733",
+		"display_source": "ead.fm2s.com.br",
+		"authority": "FM2S Treinamentos e Desenvolvimento Profissional e Gerencial Ltda.",
+		"url": "https://ead.fm2s.com.br/certificado/031733/"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2020
+		},
+		"ends_at": null,
+		"name": "Projeto Seis Sigma com Excel",
+		"license_number": "credencial 031715",
+		"display_source": "ead.fm2s.com.br",
+		"authority": "FM2S Treinamentos e Desenvolvimento Profissional e Gerencial Ltda.",
+		"url": "https://ead.fm2s.com.br/certificado/031715/"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2020
+		},
+		"ends_at": null,
+		"name": "Fluxograma, SIPOC e Mapeamento de Processos",
+		"license_number": "credencial 029509",
+		"display_source": "ead.fm2s.com.br",
+		"authority": "FM2S Treinamentos e Desenvolvimento Profissional e Gerencial Ltda.",
+		"url": "https://ead.fm2s.com.br/certificado/029509/"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2020
+		},
+		"ends_at": null,
+		"name": "Lean Six Sigma Green Belt",
+		"license_number": "credencial 025290",
+		"display_source": "ead.fm2s.com.br",
+		"authority": "FM2S Treinamentos e Desenvolvimento Profissional e Gerencial Ltda.",
+		"url": "https://ead.fm2s.com.br/certificado/025290"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2020
+		},
+		"ends_at": null,
+		"name": "Proefici\\u00eancia em Minitab",
+		"license_number": "credencial 025934",
+		"display_source": "ead.fm2s.com.br",
+		"authority": "FM2S Treinamentos e Desenvolvimento Profissional e Gerencial Ltda.",
+		"url": "https://ead.fm2s.com.br/certificado/025934"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2018
+		},
+		"ends_at": null,
+		"name": "Auditor Interno ISO 9001:2015",
+		"license_number": null,
+		"display_source": null,
+		"authority": "Gesqual",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2017
+		},
+		"ends_at": null,
+		"name": "MasterMind Lince: Lideran\\u00e7a, Relacionamento Interpessoal e Comunica\\u00e7\\u00e3o Eficaz",
+		"license_number": null,
+		"display_source": null,
+		"authority": "MasterMind Treinamentos",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2017
+		},
+		"ends_at": null,
+		"name": "Mestre em Ci\\u00eancia e Engenharia de Materiais",
+		"license_number": null,
+		"display_source": null,
+		"authority": "Universidade Federal de Alfenas - UNIFAL-MG",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2016
+		},
+		"ends_at": null,
+		"name": "Bacharela em Engenharia Qu\\u00edmica",
+		"license_number": null,
+		"display_source": null,
+		"authority": "Universidade Federal de Alfenas - UNIFAL-MG",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2014
+		},
+		"ends_at": null,
+		"name": "Monitoria em Ci\\u00eancia e Tecnologia dos Materiais",
+		"license_number": null,
+		"display_source": null,
+		"authority": "-",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2014
+		},
+		"ends_at": null,
+		"name": "Bacharela em Ci\\u00eancia e Tecnologia",
+		"license_number": null,
+		"display_source": null,
+		"authority": "Universidade Federal de Alfenas - UNIFAL-MG",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2014
+		},
+		"ends_at": null,
+		"name": "Monitoria em Ci\\u00eancia e Tecnologia dos Materiais",
+		"license_number": null,
+		"display_source": null,
+		"authority": "-",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 3,
+			"year": 2013
+		},
+		"ends_at": null,
+		"name": "Monitoria em Estat\\u00edstica e Probabilidade",
+		"license_number": null,
+		"display_source": null,
+		"authority": "-",
+		"url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2023
+		},
+		"name": "Microsoft Certified: Azure Database Administrator Associate",
+		"license_number": null,
+		"display_source": "www.credly.com",
+		"authority": "Microsoft",
+		"url": "https://www.credly.com/badges/ff475137-2c2b-42b1-933d-3a8dcc261950/linked_in_profile"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 31,
+			"month": 12,
+			"year": 2023
+		},
+		"name": "Microsoft Certified: Azure Database Administrator Associate",
+		"license_number": null,
+		"display_source": "www.credly.com",
+		"authority": "Microsoft",
+		"url": "https://www.credly.com/badges/ff475137-2c2b-42b1-933d-3a8dcc261950/linked_in_profile"
+	}],
+	"connections": 500,
+	"people_also_viewed": [{
+		"link": "https://br.linkedin.com/in/erikasantosa",
+		"name": "\\u00c9rika Santos",
+		"summary": "Data Enginner | Python | PySpark | Big Data",
+		"location": "Barbacena, MG"
+	}, {
+		"link": "https://br.linkedin.com/in/augustogabos",
+		"name": "Augusto Gabos",
+		"summary": "Data Engineer @ BlueShift Brasil",
+		"location": "S\\u00e3o Paulo e Regi\\u00e3o"
+	}, {
+		"link": "https://br.linkedin.com/in/laurindo-vilonga-dumba-45b214102",
+		"name": "Laurindo Vilonga Dumba",
+		"summary": "Cientista de Dados at BlueShift Brasil I Machine Learning I MLOPS | AWS | Azure",
+		"location": "Joinville, SC"
+	}, {
+		"link": "https://br.linkedin.com/in/emiliaminieri",
+		"name": "Em\\u00edlia Minieri",
+		"summary": "Data Engineer  Analytics |BI Analyst  | Python | SQL | Azure | Databricks | ESG| Governan\\u00e7a de Dados",
+		"location": "Santa Catarina, Brasil"
+	}, {
+		"link": "https://br.linkedin.com/in/%C3%A1dria-lima-6a1153162",
+		"name": "\\u00c1dria Lima",
+		"summary": "Data Engineer | Business Intelligence | SQL | DAX | Azure Cloud | Python | Power BI",
+		"location": "S\\u00e3o Paulo, Brasil"
+	}, {
+		"link": "https://br.linkedin.com/in/jaqueliny-freire-maia-4a64a9175",
+		"name": "Jaqueliny Freire Maia",
+		"summary": "Engenheira de Dados Jr | BlueShift | Python | SQL | AZURE | DATABRICKS",
+		"location": "Bras\\u00edlia, DF"
+	}, {
+		"link": "https://br.linkedin.com/in/anaadrianoassis",
+		"name": "Ana Carolina Adriano de Assis",
+		"summary": "Data Engineer Analytics @ BlueshiftBrasil | Data Analytics | Business Intelligence | SQL | Power BI",
+		"location": "S\\u00e3o Paulo, Brasil"
+	}, {
+		"link": "https://br.linkedin.com/in/brunellelopes",
+		"name": "Brunelle Lopes de Oliveira",
+		"summary": "Data Engineer | Azure | ELT/ETL | Databricks | Synapse | Snowflake | SQL | PySpark | AZ-900 | DP-900",
+		"location": "Rio de Janeiro, Brasil"
+	}, {
+		"link": "https://br.linkedin.com/in/micheleclarice",
+		"name": "Michele C. M.",
+		"summary": "Gest\\u00e3o de Projetos \\u00c1geis | Engenheira de Dados  | Bussines Analyst | Python | SQL | Espanhol Nativo | Enfermeira Auditora | Empreendedora na @oculosdamikka",
+		"location": "Salvador, BA"
+	}, {
+		"link": "https://br.linkedin.com/in/elton-guilherme",
+		"name": "Elton Guilherme",
+		"summary": "Engenheiro de dados | Azure | Apache Spark | Python | SQL | Databricks |",
+		"location": "Jo\\u00e3o Pessoa, PB"
+	}, {
+		"link": "https://br.linkedin.com/in/julia-gmrs-mota",
+		"name": "J\\u00falia Mota",
+		"summary": "Data Engineer & Analytics",
+		"location": "Rio de Janeiro, RJ"
+	}, {
+		"link": "https://br.linkedin.com/in/samelafreitas",
+		"name": "S\\u00e2mela R C Freitas",
+		"summary": "Big Data Engineer at BlueShift Brasil | Data Science | SQL | Python | Spark | Azure | Cloud | DevOPS |",
+		"location": "Jata\\u00ed, GO"
+	}, {
+		"link": "https://br.linkedin.com/in/victor-jurado-2a93a0206",
+		"name": "Victor Jurado",
+		"summary": "Engenheiro de dados | IoT | Python | SQL Server | MongoDB | Microsoft Azure | Pyspark | Databricks",
+		"location": "S\\u00e3o Paulo, SP"
+	}, {
+		"link": "https://br.linkedin.com/in/thiagosouzadarosa",
+		"name": "Thiago Souza da Rosa",
+		"summary": "Data Engineer at BlueShift Brasil",
+		"location": "Curitiba, PR"
+	}, {
+		"link": "https://br.linkedin.com/in/wylliams-d-342906121",
+		"name": "Wylliams D.",
+		"summary": "Data Engineer | DP-203/DP-PL-AZ -900 | Python  | Pyspark | Docker | Power BI | SQL | ETL/ELT | MySQL | Azure Cloud (Databricks/ Data Factory / Cosmodb)",
+		"location": "Recife, PE"
+	}, {
+		"link": "https://br.linkedin.com/in/wesleygaraujo",
+		"name": "Wesley Araujo \\ud83c\\udff3\\ufe0f\\u200d\\ud83c\\udf08",
+		"summary": "Head of Blueshift Academy | BlueShift Brasil",
+		"location": "Caieiras, SP"
+	}, {
+		"link": "https://br.linkedin.com/in/lucas-alexandre-041410229",
+		"name": "Lucas Alexandre",
+		"summary": "Engenheiro de dados Pleno | AZ-900 | DP-900 | Databricks | Cloud Azure | Python | SQL | Java",
+		"location": "S\\u00e3o Paulo, SP"
+	}, {
+		"link": "https://br.linkedin.com/in/rayanedesousa",
+		"name": "Rayane de Sousa",
+		"summary": "Data Engineer | Python | Pyspark | Azure Cloud (Databricks/ Data Factory | SQL | ETL/ELT | Power BI | AZ-900 | DP-900",
+		"location": "Rio de Janeiro e Regi\\u00e3o"
+	}, {
+		"link": "https://br.linkedin.com/in/nathalia-cortes",
+		"name": "Nath\\u00e1lia C\\u00f4rtes",
+		"summary": "Engenheira de Dados | Analista de Dados | Azure | Python | SQL | Databricks | Power BI",
+		"location": "Niter\\u00f3i, RJ"
+	}, {
+		"link": "https://br.linkedin.com/in/passarelliandrea",
+		"name": "Andrea Passarelli Lopes",
+		"summary": "L\\u00edder de Projetos | OKR | Scrum | Kanban | Azure | PowerPlatform| FinOps | Python | DataBricks | Data Factory | SQL",
+		"location": "Taubat\\u00e9, SP"
+	}],
+	"recommendations": [],
+	"activities": [{
+		"title": "Ah, os benef\\u00edcios do home office! \\ud83e\\udd0d#homeoffice #trabalhoremoto #familia",
+		"link": "https://www.linkedin.com/posts/guilherme-braga-8b24b9159_homeoffice-trabalhoremoto-familia-activity-7062777699659919360-fIl9",
+		"activity_status": "Caroline Moraes da Cruz gostou"
+	}, {
+		"title": "Se quando voc\\u00ea ouve falar em UX, voc\\u00ea s\\u00f3 consegue pensar em um site ou um app, saiba que esta disciplina abrange muuito mais do que isso e est\\u00e1 mais\\u2026",
+		"link": "https://www.linkedin.com/posts/babifernandes_se-quando-voc%C3%AA-ouve-falar-em-ux-voc%C3%AA-s%C3%B3-activity-7059201352765181952-qIg-",
+		"activity_status": "Caroline Moraes da Cruz gostou"
+	}, {
+		"title": "Pra galera que critica o Home Office, tenho um convite pra voc\\u00eas.Recentemente vi novamente aquele assunto chat do Home Office vs Presencial, mas\\u2026",
+		"link": "https://www.linkedin.com/posts/davi-aires_homeoffice-presencial-trabalhoremoto-activity-7062760990035054592-uGkP",
+		"activity_status": "Caroline Moraes da Cruz gostou"
+	}, {
+		"title": "Coment\\u00e1rio resume:Ele criou algo mais inteligente que ele - Richard Uchoahttps://lnkd.in/dG8v7DAfObrigado por fazer parte da minha rede, Richard\\u2026",
+		"link": "https://www.linkedin.com/posts/julianojstavares_coment%C3%A1rio-resume-ele-criou-algo-mais-inteligente-activity-7062766863042195456-K-14",
+		"activity_status": "Caroline Moraes da Cruz gostou"
+	}, {
+		"title": "\\ud83c\\udf89\\ud83d\\ude80 \\u00d3timas not\\u00edcias para todos os usu\\u00e1rios do Microsoft Power Platform! \\ud83d\\ude80\\ud83c\\udf89O Microsoft Power Platform acaba de anunciar que agora possui 1000\\u2026",
+		"link": "https://www.linkedin.com/posts/luiz-faria-24861164_power-platform-celebrates-1000-certified-activity-7062628080984481792-LMyO",
+		"activity_status": "Caroline Moraes da Cruz gostou"
+	}, {
+		"title": "Amo ser m\\u00e3e e amo trabalhar.Obrigada BlueShift Brasil por tanto carinho e cuidado !N\\u00e3o tem coisa melhor do que conseguir conciliar a vida\\u2026",
+		"link": "https://www.linkedin.com/posts/graziele-fagundes-3461bb243_amo-ser-m%C3%A3e-e-amo-trabalhar-obrigada-blueshift-activity-7062073591697219585--SeW",
+		"activity_status": "Caroline Moraes da Cruz gostou"
+	}, {
+		"title": "[EDIT 1] STATUS: Ainda n\\u00e3o estou empregado, mas gra\\u00e7as a voc\\u00eas estou fazendo muitas entrevistas. Assim que sair um resultado positivo, eu atualizo o\\u2026",
+		"link": "https://www.linkedin.com/posts/lucasoliveiratads_oportunidades-ti-homeoffice-activity-7060394603769675776-ltaV",
+		"activity_status": "Caroline Moraes da Cruz gostou"
+	}],
+	"similarly_named_profiles": [{
+		"name": "Caroline Vit\\u00f3ria da Cruz Moraes",
+		"link": "https://br.linkedin.com/in/caroline-vit%C3%B3ria-da-cruz-moraes-23b22b203",
+		"summary": "\\u2014",
+		"location": "Itapeva, SP"
+	}],
+	"articles": [],
+	"groups": [],
+	"phone_numbers": [],
+	"social_networking_services": [],
+	"skills": [],
+	"inferred_salary": null,
+	"gender": null,
+	"birth_date": null,
+	"industry": null,
+	"extra": null,
+	"interests": [],
+	"personal_emails": [],
+	"personal_numbers": []
+}

@@ -6,6 +6,7 @@ from langchain.chains import LLMChain
 from dotenv import load_dotenv
 
 from third_parties.linkedin import *
+from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
 
 
 load_dotenv()
@@ -24,6 +25,8 @@ Musk tem sido alvo de críticas devido a posturas incomuns ou não científicas 
 if __name__ == "__main__":
     print("Hello LangChain!")
 
+    linkedin_profile_url = linkedin_lookup_agent(name="Caroline Moraes da Cruz")
+
     summary_template = """
         Given the information {information} about a person from I want you to create:
         1. a short summary
@@ -38,7 +41,7 @@ if __name__ == "__main__":
 
     chain = LLMChain(llm=llm, prompt=summary_prompt_template)
 
-    # linkedin_data = scrape_linkedin_profile(linkedin_profile_url="https://www.linkedin.com/in/caroline-moraes-da-cruz/")
+    # linkedin_data = scrape_linkedin_profile(linkedin_profile_url=linkedin_profile_url)
     with open("third_parties/linkedin-carol.json", "r") as file:
         linkedin_data = clean_linkedin_json(json.load(file))
 

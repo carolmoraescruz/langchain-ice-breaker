@@ -1,4 +1,5 @@
 import json
+import requests
 
 from langchain import PromptTemplate
 from langchain.chat_models import ChatOpenAI
@@ -41,7 +42,15 @@ if __name__ == "__main__":
 
     chain = LLMChain(llm=llm, prompt=summary_prompt_template)
 
-    # linkedin_data = scrape_linkedin_profile(linkedin_profile_url=linkedin_profile_url)
+    # try:
+    #     response = requests.get(linkedin_profile_url)
+    #     if response.ok:
+    #         linkedin_data = scrape_linkedin_profile(linkedin_profile_url=linkedin_profile_url)
+    #         print("Profile found.")
+    
+    # except:
+    #     "Profile not found."
+
     with open("third_parties/linkedin-carol.json", "r") as file:
         linkedin_data = clean_linkedin_json(json.load(file))
 
